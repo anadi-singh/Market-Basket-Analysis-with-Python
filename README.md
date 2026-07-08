@@ -77,24 +77,6 @@ The dataset contains transactional purchase records including:
 
 ---
 
-## 📊 Results
-
-The analysis identifies:
-
-- Frequently purchased product combinations
-- Strong association rules
-- Confidence and Lift values
-- Customer purchasing behaviour
-
-These insights can support:
-
-- Product recommendations
-- Store layout optimization
-- Cross-selling strategies
-- Marketing campaigns
-
----
-
 ## 📊 Key Insights
 
 - Identified frequently purchased product combinations using the Apriori algorithm.

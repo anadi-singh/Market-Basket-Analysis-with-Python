@@ -1,13 +1,17 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" />
 
-![Stars](https://img.shields.io/github/stars/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
+</p>
 
-![Forks](https://img.shields.io/github/forks/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
+<p align="center">
+  
+![Stars](https://img.shields.io/github/stars/anadi-singh/Market-Basket-Analysis-with-Python?style=social)  ![Forks](https://img.shields.io/github/forks/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
 
+</p>
 
 # 📊 Market Basket Analysis with Python
 

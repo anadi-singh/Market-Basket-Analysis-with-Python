@@ -95,6 +95,36 @@ These insights can support:
 
 ---
 
+## 📊 Key Insights
+
+- Identified frequently purchased product combinations using the Apriori algorithm.
+- Measured association strength through **Support**, **Confidence**, and **Lift** metrics.
+- Revealed cross-selling opportunities that can increase average order value.
+- Highlighted purchasing patterns useful for inventory planning.
+
+---
+
+## 💼 Business Value
+
+This analysis enables retailers to:
+
+- Improve product recommendations.
+- Increase cross-selling opportunities.
+- Optimise product placement within stores.
+- Reduce inventory planning errors.
+- Enhance customer shopping experience.
+
+---
+
+## 📈 Business Recommendations
+
+- Bundle products that are frequently purchased together.
+- Place associated products near each other.
+- Launch targeted promotions based on purchase patterns.
+- Continuously monitor transaction data for changing trends.
+
+---
+
 ## 📷 Sample Outputs
 
 ### Data Preview

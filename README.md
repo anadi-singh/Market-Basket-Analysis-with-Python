@@ -1,3 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+
+![Stars](https://img.shields.io/github/stars/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
+
+![Forks](https://img.shields.io/github/forks/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
+
+
 # 📊 Market Basket Analysis with Python
 
 A data analytics project that applies **Market Basket Analysis** to identify product purchasing patterns using the **Apriori Algorithm** and **Association Rule Mining**.
@@ -6,9 +17,9 @@ A data analytics project that applies **Market Basket Analysis** to identify pro
 
 ## 📌 Project Overview
 
-Retail businesses generate thousands of transactions every day. Understanding which products are frequently purchased together helps businesses optimize product placement, cross-selling, and recommendation systems.
+Retail businesses generate thousands of transactions every day. Understanding which products are frequently purchased together helps businesses optimise product placement, cross-selling, and recommendation systems.
 
-This project analyzes transactional data using Python to discover meaningful product associations.
+This project analyses transactional data using Python to discover meaningful product associations.
 
 ---
 

@@ -80,13 +80,25 @@ These insights can support:
 
 ---
 
-## 📷 Sample Output
+## 📷 Sample Outputs
 
-> *(Add screenshots of your notebook results here.)*
+### Data Preview
 
-Example:
+<p align="center">
+  <img src="images/output1.png" width="800"/>
+</p>
 
-![Output](images/output.png)
+### Frequent Itemsets
+
+<p align="center">
+  <img src="images/output2.png" width="800"/>
+</p>
+
+### Association Rules
+
+<p align="center">
+  <img src="images/output3.png" width="800"/>
+</p>
 
 ---
 

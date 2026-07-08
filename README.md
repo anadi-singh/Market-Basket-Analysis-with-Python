@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  
-![Stars](https://img.shields.io/github/stars/anadi-singh/Market-Basket-Analysis-with-Python?style=social)  ![Forks](https://img.shields.io/github/forks/anadi-singh/Market-Basket-Analysis-with-Python?style=social)
+
+<img src="https://img.shields.io/github/stars/anadi-singh/Market-Basket-Analysis-with-Python?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/forks/anadi-singh/Market-Basket-Analysis-with-Python?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/license/anadi-singh/Market-Basket-Analysis-with-Python?style=for-the-badge" />
 
 </p>
 

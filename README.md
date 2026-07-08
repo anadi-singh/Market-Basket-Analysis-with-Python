@@ -45,8 +45,6 @@ The dataset contains transactional purchase records including:
 - Quantity
 - Transaction ID
 
-*(Replace this section with your actual dataset details.)*
-
 ---
 
 ## 🛠️ Technologies Used
